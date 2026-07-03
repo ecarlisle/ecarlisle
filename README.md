@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Eric Carlisle
 
-<!--
-**ecarlisle/ecarlisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Full-Stack Engineer & UX Architect focused on performant, accessible, human-centered web platforms.
 
-Here are some ideas to get you started:
+I work across React, TypeScript, Astro, Node.js, GraphQL, design systems, content platforms, and cloud-hosted applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recently, I’ve been exploring practical AI-assisted development, agent workflows, developer tooling, and ways AI can improve software quality without replacing thoughtful engineering.
+
+## Current interests
+
+- AI-assisted development workflows
+- Agent harnesses and local coding tools
+- Astro, content platforms, and technical blogging
+- Accessible, performant frontend architecture
+- Developer experience and design systems
+
+## Featured work
+
+- AstroBlog: technical writing, portfolio content, and web presence
+- Token proxy / context tooling experiments
+- Portfolio case studies on frontend architecture, UX, and data visualization
+
+## Find me
+
+- Website: https://ericcarlisle.com
+- LinkedIn: https://www.linkedin.com/in/ericcarlisle/
+- Bsky: https://bsky.app/profile/ericcarlisle.bsky.social
+- Mastodon: https://fosstodon.org/@ericcarlisle
